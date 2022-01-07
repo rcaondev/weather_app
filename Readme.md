@@ -9,4 +9,4 @@ Este projeto é uma representação de um APP de clima, para estudos de layout e
 # Preview
 
 
-![Clima app](https://images.unsplash.com/photo-1641351557399-9af72b3e93b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw=&auto=format&fit=crop&w=500&q=60)
+![Clima app](https://github.com/rcaondev/weather_app/blob/main/preview.png?raw=true)
